@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Ghada Rabea<br>Data Engineer & Machine Learning Engineer</h3>
+<h1 align="center">Hi 👋! My name is Ghada Rabea<br>Data Engineer & Machine Learning Engineer</h1>
 
 ###
 
